@@ -1,0 +1,94 @@
+http://msinilo.pl/blog/?p=1115	cmov fun	
+http://msinilo.pl/blog/?p=1116	Forward that store	
+http://www.alecjacobson.com/weblog/?p=3575	Compiling and running the nVidia dual depth peeling example on Mac OS X	
+http://www.raywenderlich.com/49850/whats-new-in-objective-c-and-foundation-in-ios-7	What’s New in Objective-C and Foundation in iOS 7	
+https://hacks.mozilla.org/2013/09/css-length-explained/	CSS Length Explained	
+http://www.mikeash.com/pyblog/friday-qa-2013-09-27-arm64-and-you.html	Friday Q&amp;A 2013-09-27: ARM64 and You 	
+http://www.airtightinteractive.com/2013/10/making-audio-reactive-visuals/	Making Audio Reactive Visuals	
+http://bookofhook.blogspot.com/2013/03/smart-guy-productivity-pitfalls.html	Smart Guy Productivity Pitfalls	
+http://www.essentialmath.com/blog/?p=92	New Thoughts on Random Numbers, Part One	
+http://www.essentialmath.com/blog/?p=97	New Thoughts on Random Numbers, Part Two	
+http://arjanvandergaag.nl/blog/selecta.html	Fuzzy-find all the things with Selecta	
+http://8thlight.github.com/adam-kaplan/2013/10/18/yes-and.html	Yes, and...	
+http://realtimecollisiondetection.net/blog/?p=44 Design patterns are from hell!
+http://realtimecollisiondetection.net/blog/?p=81 Design patterns are from hell^2!
+http://usevim.com/2013/11/06/better-vim	More Instantly Better Vim	
+http://www.zdziarski.com/blog/?p=2630	Thoughts on iMessage Integrity	
+http://feedproxy.google.com/~r/tecosystems/~3/gGqc-6Kjp-s/	The Questions for Hadoop Moving Forward	
+http://feedproxy.google.com/~r/matthen/~3/lFwCj6E-J-w/67889183164	Draw a straight line, and then continue it for the same length...	
+http://landonf.bikemonkey.org/2013/12/17#Virtualizing_Tiger_On_Modern_CPUs.20131217	Mac OS X 10.4 under VMware Fusion on Modern CPUs	
+http://lucumr.pocoo.org/2013/8/18/beautiful-native-libraries	Beautiful Native Libraries	
+http://eli.thegreenplace.net/2013/12/18/makefile-functions-and-color-output/	Makefile functions and color output	
+http://feedproxy.google.com/~r/PerfectionKills/~3/UEw-DjFVWQQ/	Exploring canvas drawing techniques	
+http://feedproxy.google.com/~r/stevelosh/~3/QN8oRvnv2Q8/	Teach, Don't Tell	
+http://openmymind.net/Growth-Planning	Growth Planning	
+http://lemire.me/blog/archives/2013/12/26/fastest-way-to-compute-the-greatest-common-divisor/	Fastest way to compute the greatest common divisor	
+http://attractivechaos.wordpress.com/2013/10/11/parallelizing-simple-for-loops/	Parallelizing simple “for” loops	
+http://attractivechaos.wordpress.com/2013/11/22/reading-remote-files-with-kurl/	Reading remote files with kurl	
+http://lambda-the-ultimate.org/node/4862	A glimpse into a new general purpose programming language under development at Microsoft	
+http://deplinenoise.wordpress.com/2013/12/27/optimize-for-compile-time/	Optimize for Iteration Time	
+http://deplinenoise.wordpress.com/2013/12/28/optimizable-code/	Optimizable Code	
+http://turbochaos.blogspot.com/2013/09/linux-rootkits-101-1-of-3.html	Linux Rootkits 101 (1 of 3)	
+http://turbochaos.blogspot.com/2013/10/writing-linux-rootkits-201-23.html	Writing Linux Rootkits 201 (2/3)	
+http://turbochaos.blogspot.com/2013/10/writing-linux-rootkits-301_31.html	Writing Linux Rootkits 301	
+https://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools/	Live editing WebGL shaders with Firefox Developer Tools	
+http://www.drgoulu.com/2013/12/15/comment-expliquer-la-relativite-aux-enfants/	Comment expliquer la relativité aux enfants	
+http://www.humus.name/index.php?ID=368	MakeID - Unique ID generator	
+http://css-tricks.com/creating-a-3d-cube-image-gallery/	Creating a 3D Cube Image Gallery	
+http://feedproxy.google.com/~r/EmbeddedInAcademia/~3/XSAosL3b33I/1054	Integer Undefined Behaviors in Open Source Crypto Libraries	
+http://blog.hvidtfeldts.net/index.php/2014/01/combining-ray-tracing-and-polygons/	Combining ray tracing and polygons	
+http://probablydance.com/2012/12/12/scopeexit-scopefailure-and-scopesuccess/	scope(exit), scope(failure) and scope(success)	
+http://ericniebler.com/2013/10/13/out-parameters-vs-move-semantics/	Out Parameters, Move Semantics, and Stateful Algorithms	
+http://ericniebler.com/2013/11/07/input-iterators-vs-input-ranges/	Input Iterators vs Input Ranges	
+http://feeds.feedblitz.com/~/53729783/0/sethsblog~But-what-if-I-fail.html	"But what if I fail?"	
+http://www.forceflow.be/2013/10/07/morton-encodingdecoding-through-bit-interleaving-implementations/	Morton encoding/decoding through bit interleaving: Implementations	
+http://feedproxy.google.com/~r/C0de517e/~3/pNCjJBlNqx0/wolframs-mathematica-101.html	Wolfram's Mathematica 101	
+http://feedproxy.google.com/~r/inearflashblog/~3/9d5gYbjeJuk/	Snowroller	
+http://blogs.msdn.com/b/oldnewthing/archive/2014/01/09/10488192.aspx	Can you dllexport/dllimport an inline function?	
+https://mollyrocket.com/forums/viewtopic.php?p=7554#7554	Public domain XML parser	
+http://rfw.name/blog/2013/09/04/no_code_is_good_code.html	No Code is Good Code	
+http://julipedia.meroh.net/2013/10/production-software-logging_24.html	Production software: Logging	
+http://nicolasgallagher.com/flexible-css-cover-images/	Flexible CSS cover images	
+http://geidav.wordpress.com/2013/12/29/optimizing-binary-search/	Optimizing binary search	
+http://blog.golang.org/slices	Arrays, slices (and strings): The mechanics of 'append'	
+http://www.preney.ca/paul/archives/1009	C++11′s Move Semantics Are Not Free	
+http://feedproxy.google.com/~r/matthen/~3/egoMfEiO1H8/73418797163	Another interesting property of the logarithmic spiral is...	
+http://alisdair.mcdiarmid.org/2012/08/14/jsmn-example.html	jsmn example, or parsing JSON with C	
+http://alisdair.mcdiarmid.org/2014/01/12/arm-immediate-value-encoding.html	ARM immediate value encoding	
+http://feedproxy.google.com/~r/GiantRobotsSmashingIntoOtherGiantRobots/~3/8Ht-qfUV2FI/recursive-macros-in-vim	Recursive Macros in Vim	
+http://sylvestre.ledru.info/blog/2013/09/08/include-what-you-use-yet	Include What You Use - Yet a new cool tool in Debian.	
+http://codesuppository.blogspot.com/2013/12/an-open-source-code-snippet-to-build.html	An open source code snippet to build a view and projection matrix.  Implements: D3DXMatrixPerspectiveFovLH, D3DXMatrixOrthoLH, and D3DXMatrixLookAtLH	
+http://oroboro.com/unique-machine-fingerprint/	Generating a Cross-Platform Unique Machine Fingerprint	
+http://blogs.msdn.com/b/vcblog/archive/2013/09/11/introducing-gw-compiler-switch.aspx	Introducing ‘/Gw’ Compiler Switch	
+http://www.reedbeta.com/blog/2013/12/28/on-vector-math-libraries/	On Vector Math Libraries	
+http://eli.thegreenplace.net/2013/12/05/the-cost-of-dynamic-virtual-calls-vs-static-crtp-dispatch-in-c/	The cost of dynamic (virtual calls) vs. static (CRTP) dispatch in C++	
+http://landonf.bikemonkey.org/2014/01/12#Radar_15800975_iOS_Frameworks.20140112	iOS Static Libraries Are, Like, Really Bad, And Stuff (Radar 15800975)	
+http://landonf.bikemonkey.org/2014/01/13#Fix_iOS_Frameworks_Or_GTFO.20140113	Fix iOS Frameworks (or GTFO?)	
+http://feedproxy.google.com/~r/Command-line-fu/~3/u75SAuPq-0Q/stores-current-working-directory-before-exit-and-restores-it-on-a-new-bash-start	Stores current working directory before exit and restores it on a new bash start	
+http://feeds.justinhileman.info/~r/justinhileman/blog/~3/0ci1TL3Detw/	Create	
+http://geidav.wordpress.com/2014/01/23/computing-oriented-minimum-bounding-boxes-in-2d/	Computing oriented minimum bounding boxes in 2D	
+http://probablydance.com/2013/01/13/a-faster-implementation-of-stdfunction/	A faster implementation of std::function	
+https://hacks.mozilla.org/2014/01/webgl-deferred-shading/	WebGL Deferred Shading	
+http://blogs.msdn.com/b/oldnewthing/archive/2014/02/03/10496248.aspx	How can I make a WNDPROC or DLGPROC a member of my C++ class?	
+http://feedproxy.google.com/~r/LostInTheTriangles/~3/j9UyfjGez8c/	Rough sorting by depth	
+http://feedproxy.google.com/~r/g-truc/~3/prKleJICeTk/post-0631.html	The useful functions for modern OpenGL 4.4 programming	
+http://probablydance.com/2013/02/20/handmade-coroutines-for-windows/	Handmade Coroutines for Windows	
+http://eelpi.gotdns.org/blog.wiki.html#%5B%5BEven%20more%20precision%5D%5D	Even more precision	
+http://www.lab4games.net/zz85/blog/2014/02/17/webgl-gpgpu-flocking-birds-part-ii-shaders/
+http://www.lab4games.net/zz85/blog/2013/12/30/webgl-gpgpu-and-flocking-part-1/
+http://scottmeyers.blogspot.com/2014/02/capture-quirk-in-c14.html	Capture Quirk in C++14	
+http://blog.coldflake.com/posts/2014-01-12-C++-delegates-on-steroids.html	C++ Delegates On Steroids	
+http://www.mikeash.com/pyblog/friday-qa-2013-12-06-network-protocol-design.html	Friday Q&amp;A 2013-12-06: Network Protocol Design 	
+http://philipwalton.github.io/solved-by-flexbox/	Solved by Flexbox	
+http://taras.glek.net/blog/2014/02/06/cost-efficient-continious-integration/	Cost-Efficient Continious Integration	
+http://feeds.feedblitz.com/~/57688324/0/sethsblog~The-opposite-of-why-is-now.html	The opposite of why is now	
+http://css-tricks.com/animation-css-triangles-work/	Animation of How CSS Triangles Work	
+http://preshing.com/20120522/lightweight-in-memory-logging	Lightweight In-Memory Logging	
+http://blog.llvm.org/2014/03/llvm-weekly-9-mar-3rd-2014.html	LLVM Weekly - #9, Mar 3rd 2014	
+http://geidav.wordpress.com/2014/03/06/on-finding-1-bit-sequences/	On finding 1-bit sequences	
+http://preshing.com/20121026/1mb-sorting-explained/	1MB Sorting Explained	
+http://sebastiansylvan.com/2012/12/19/space-efficient-rresizable-arrays/	Space-efficient Resizable Arrays	
+http://sebastiansylvan.com/2013/05/08/robin-hood-hashing-should-be-your-default-hash-table-implementation/	Robin Hood Hashing should be your default Hash Table implementation	
+http://sebastiansylvan.com/2013/08/05/more-on-robin-hood-hashing-2/	More on Robin Hood Hashing	
+http://blog.regehr.org/archives/1091	Use of Assertions	
+http://blog.regehr.org/archives/1063	Safe, Efficient, and Portable Rotate in C/C++	
