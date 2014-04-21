@@ -92,3 +92,26 @@ http://sebastiansylvan.com/2013/05/08/robin-hood-hashing-should-be-your-default-
 http://sebastiansylvan.com/2013/08/05/more-on-robin-hood-hashing-2/	More on Robin Hood Hashing	
 http://blog.regehr.org/archives/1091	Use of Assertions	
 http://blog.regehr.org/archives/1063	Safe, Efficient, and Portable Rotate in C/C++	
+http://blogs.msdn.com/b/oldnewthing/archive/2014/03/10/10506422.aspx	Programmatically uploading a file to an FTP site	
+http://marcgravell.blogspot.fr/2014/03/cleaner-code-using-partial-methods-for.html	Cleaner code: using partial methods for debugging utilities	
+http://antirez.com/news/74	Fascinating little programs 	
+http://www.bitsnbites.eu/?p=170	Hiqh quality DPCM	
+http://blogs.msdn.com/b/oldnewthing/archive/2014/03/24/10510315.aspx	Enumerating set partitions with Bell numbers and Stirling numbers of the second kind	
+http://arjanvandergaag.nl/blog/using-ruby-command-line-options.html	Using Ruby command line options	
+http://randomascii.wordpress.com/2014/03/22/make-vc-compiles-fast-through-parallel-compilation/	Make VC++ Compiles Fast Through Parallel Compilation	
+http://casual-effects.blogspot.fr/2014/03/weighted-blended-order-independent.html	Weighted, Blended Order-Independent Transparency	
+http://casual-effects.blogspot.fr/2014/01/an-introduction-to-javascript-for.html	An Introduction to JavaScript for Sophisticated Programmers	
+http://www.clicktorelease.com/tools/snipsnap/	SnipSnap	
+http://www.yosefk.com/blog/c11-fqa-anyone.html	C++11 FQA anyone?	
+http://blog.8thlight.com/uncle-bob/2014/02/21/WhereIsTheForeman.html	Where is the Foreman?	
+http://www.hanselman.com/blog/AnalysisParalysisOverthinkingAndKnowingTooMuchToJustCODE.aspx	Analysis Paralysis: Over-thinking and Knowing Too Much to Just CODE	
+http://blog.regehr.org/archives/1096	Assertions Are Pessimistic, Assumptions Are Optimistic	
+http://www.reedbeta.com/blog/2014/03/25/deferred-texturing/	Deferred Texturing	
+http://inessential.com/2014/03/31/mark_all_as_read	Mark All as Read	
+http://29a.ch/2014/04/03/smartcrop-content-aware-image-cropping	Introducing smartcrop.js	
+http://antirez.com/news/75	Redis new data structure: the HyperLogLog 	
+http://www.hanselman.com/blog/OpenSourceIsAThanklessJobWeDoItAnyway.aspx	Open Source is a thankless job. We do it anyway.	
+http://robots.thoughtbot.com/closer-look-color-lightness	A Closer Look at Color Lightness	
+http://sethgodin.typepad.com/seths_blog/2014/04/meandering-toward-nowhere-special.html	Meandering toward nowhere special	
+http://inessential.com/2014/04/11/javascriptcore_tutorial	JavaScriptCore Tutorial	
+http://amix.dk/blog/post/19754	Steve Jobs talks about managing people	

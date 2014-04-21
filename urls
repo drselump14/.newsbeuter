@@ -151,7 +151,6 @@ http://feeds.feedburner.com/opensoul programming
 http://engineering.imvu.com/feed/ programming
 http://www.nickdarnell.com/feed programming
 http://www.airtightinteractive.com/feed/ programming
-http://feeds.feedburner.com/LostInTheTriangles programming
 http://aras-p.info/atom.xml programming
 http://feeds.feedburner.com/codeincomplete programming
 http://gbgames.com/blog/feed/ programming
@@ -346,7 +345,6 @@ http://joeduffyblog.com/feed programming
 http://tangentvector.wordpress.com/feed/ programming
 http://floored.com/atom.xml programming
 http://mcnopper.blogspot.com/feeds/posts/default programming
-http://bulldozer00.com/feed/ programming
 http://polycode.tumblr.com/rss programming
 http://oroboro.com/feed/ programming
 http://git-scm.com/blog.rss programming
@@ -370,6 +368,11 @@ http://www.filmicworlds.com/feed/ programming
 http://tomdalling.com/blog/feed programming
 http://www.slashslash.info/feed/ programming
 http://strilanc.com/feed.xml programming
+http://ginsweater.com/blog/feed/ programming
+http://barradeau.com/blog/?feed=rss2 programming
+http://blog.duangle.com/feeds/posts/default programming
+http://linux-debugger-bits.blogspot.com/feeds/posts/default programming
+http://johnwhite3d.blogspot.com/feeds/posts/default programming
 
 # library feeds
 http://box2d.org/feed/
@@ -391,7 +394,7 @@ http://blog.webplatform.org/feed/ web
 http://christianheilmann.com/feed/ web
 http://blog.patrickmeenan.com/feeds/posts/default web
 http://compass-style.org/blog/atom.xml web css
-http://ejohn.org/index.rdf web
+http://feeds.feedburner.com/JohnResig web
 http://www.alistapart.com/feed/rss.xml web
 http://feeds.feedburner.com/24ways web
 http://fhtr.blogspot.com/feeds/posts/default web
@@ -504,6 +507,7 @@ http://euri.ca/feed/index.xml misc
 http://feeds.feedburner.com/matthen misc
 http://spritesmods.com/rss.php misc
 http://nautil.us/rss/all misc
+http://mollyrocket.com/jacs/jacs_s04_atom.rss misc
 
 # demoscene feeds
 http://www.pouet.net/export/lastprodsreleased.rss.php demoscene
@@ -876,4 +880,3 @@ http://www.ozone3d.net/blogs/demoniak3d/?feed=rss2
 http://www.palgorithm.co.uk/feed/
 http://x264dev.multimedia.cx/feed
 https://mollyrocket.com/418?style=2
-http://moviecode.tumblr.com/rss
