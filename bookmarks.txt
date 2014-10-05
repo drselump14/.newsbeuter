@@ -115,3 +115,17 @@ http://robots.thoughtbot.com/closer-look-color-lightness	A Closer Look at Color 
 http://sethgodin.typepad.com/seths_blog/2014/04/meandering-toward-nowhere-special.html	Meandering toward nowhere special	
 http://inessential.com/2014/04/11/javascriptcore_tutorial	JavaScriptCore Tutorial	
 http://amix.dk/blog/post/19754	Steve Jobs talks about managing people	
+http://ithaca.arpinum.org/2014/04/20/lua-c-modules.html	Adding Information to C Modules for Lua	
+http://christianheilmann.com/2014/04/22/quick-one-using-download-attribute-on-links-to-save-canvas-as-png/	Quick one: using download attribute on links to save Canvas as PNG	
+http://css-tricks.com/icon-fonts-vs-svg/	Inline SVG vs Icon Fonts [CAGEMATCH]	
+http://www.royvanrijn.com/blog/2014/04/mosaic-algorithm/	Mosaic algorithm	
+http://opensoul.org/2014/04/28/failure/	Lessons learned from a cancelled project	
+http://29a.ch/2014/05/09/smartcrop.js-ken-burns	smartcrop.js ken burns effect	
+http://blogs.msdn.com/b/shawnhar/archive/2014/06/28/directxmesh.aspx	DirectXMesh	
+http://gamedevcoder.wordpress.com/2014/01/16/tiny2d/	Tiny2D – my open source 2D game engine	
+http://blog.blockos.org/?p=696	10 tons histogram.	
+http://h4ck3r.net/2014/05/31/amazing-code-density/	Amazing code density	
+http://beust.com/weblog/2014/05/11/the-pitfalls-of-test-driven-development/	The pitfalls of Test-Driven Development	
+http://thechangelog.com/tool-showing-progress-cp-rm-dd-friends/	A tool for showing the progress of cp, rm, dd, and friends	
+http://tianyizhou.wordpress.com/2014/05/23/aistats-2013-grebsmo-code-is-released/	AISTATS 2013 GreBsmo code is released	
+http://www.hanselman.com/blog/HowToCreateAFileWithADotPrefixInWindowsExplorer.aspx	How to create a file with a . dot prefix in Windows Explorer	

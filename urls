@@ -134,7 +134,7 @@ http://deplinenoise.wordpress.com/feed/ programming
 http://www.reedbeta.com/blog/feed/ programming
 http://cg.alexandra.dk/feed/ programming graphics
 http://fabiensanglard.net/rss.xml programming
-http://domipheus.wordpress.com/feed/ programming
+http://labs.domipheus.com/blog/feed/ programming
 http://fgiesen.wordpress.com/feed/ programming
 http://dougrogers.blogspot.com/feeds/posts/default programming graphics
 http://feeds.feedburner.com/bkcore-thibautdespoulain
@@ -160,6 +160,7 @@ http://blogs.aerys.in/jeanmarc-leroux/feed/ programming
 http://diaryofagraphicsprogrammer.blogspot.com/feeds/posts/default programming graphics
 http://feeds.feedburner.com/CppSoup programming c++
 http://feeds.feedburner.com/JonSkeetCodingBlog programming
+http://codeblog.jonskeet.uk/feed/ programming
 http://beautifulpixels.blogspot.com/feeds/posts/default programming graphcis
 http://blog.irayrender.com/rss programming graphics
 http://blogs.msdn.com/vcblog/rss.xml programming c++
@@ -373,6 +374,22 @@ http://barradeau.com/blog/?feed=rss2 programming
 http://blog.duangle.com/feeds/posts/default programming
 http://linux-debugger-bits.blogspot.com/feeds/posts/default programming
 http://johnwhite3d.blogspot.com/feeds/posts/default programming
+http://hubicka.blogspot.com/feeds/posts/default programming
+http://useyourloaf.com/blog/rss.xml programming
+http://bartwronski.com/feed/ programming
+http://tolgaceylan.tumblr.com/rss programming
+http://fapad3d.blogspot.com/feeds/posts/default programming
+http://www.p1xelcoder.com/feed/ programming
+http://www.joshbarczak.com/blog/?feed=rss2 programming
+http://notes.ericjiang.com/feed programming
+http://www.kiransprojects.com/blog/feed/ programming
+http://codepen.io/andremichelle/blog/feed/ programming audio
+http://hopperapp.com/blog/?feed=rss2 programming
+http://sheredom.wordpress.com/feed/ programming
+http://weblog.kimkulling.de/?feed=rss2 programming
+http://jamesdolan.blogspot.com/feeds/posts/default programming
+http://www.alexandre-pestana.com/feed/ programming
+http://blog.feabhas.com/feed/rss2/ programming
 
 # library feeds
 http://box2d.org/feed/
@@ -429,6 +446,8 @@ http://tiamat.tsotech.com/tiamat.rss web
 http://feeds.feedburner.com/spf13 web
 http://feeds.feedburner.com/RubyRedBricks web
 http://jakoblaegdsmand.com/feed.xml web
+http://codepen.io/chriscoyier/blog/feed/ web
+http://feeds2.feedburner.com/tympanus web
 
 # sysadmin feeds
 http://blog.linuxmint.com/?feed=rss2 linux
@@ -443,6 +462,8 @@ http://dtrace.org/blogs/brendan/feed/ dtrace
 http://feeds2.feedburner.com/Command-line-fu cli
 http://kbeezie.com/feed/ nginx
 http://pcloadletter.co.uk/feed/ synology
+http://feeds.feedburner.com/vagrantup vagrant
+https://www.madboa.com/blog/atom.xml
 
 # maths feeds
 http://and-what-happened.blogspot.com/feeds/posts/default maths
@@ -474,7 +495,7 @@ http://dev.weechat.org/feed/atom misc
 http://feeds.feedburner.com/Explosm misc
 http://feeds.feedburner.com/codinghorror/ misc
 http://vimcasts.org/feeds/ogg misc vim
-http://ultimex.over-blog.com/rss-articles.xml misc  
+http://ultimex.over-blog.com/rss-articles.xml misc
 http://feeds.danielmiessler.com/danielmiessler misc
 http://feeds.feedburner.com/usevim misc vim
 http://feeds2.feedburner.com/BonjourMadame misc
@@ -488,7 +509,6 @@ http://feeds.feedburner.com/ScottHanselman misc
 http://feeds.feedburner.com/amixdk misc
 http://fuckyeahfluiddynamics.tumblr.com/rss misc
 http://ha-ha-ha.tumblr.com/rss misc
-http://imposetonanonymat.tumblr.com/rss misc
 http://jordanmechner.com/feed/ misc
 http://redmeat.lapin.org/fluxrss.xml misc
 http://sethgodin.typepad.com/seths_blog/atom.xml misc
