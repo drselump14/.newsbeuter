@@ -129,3 +129,51 @@ http://beust.com/weblog/2014/05/11/the-pitfalls-of-test-driven-development/	The 
 http://thechangelog.com/tool-showing-progress-cp-rm-dd-friends/	A tool for showing the progress of cp, rm, dd, and friends	
 http://tianyizhou.wordpress.com/2014/05/23/aistats-2013-grebsmo-code-is-released/	AISTATS 2013 GreBsmo code is released	
 http://www.hanselman.com/blog/HowToCreateAFileWithADotPrefixInWindowsExplorer.aspx	How to create a file with a . dot prefix in Windows Explorer	
+http://blog.onebyonedesign.com/actionscript/some-photographic-shaders/	Some Photographic Shaders	
+https://remysharp.com/2014/05/23/where-is-that-console-log	Where is that console.log?	
+http://zeuxcg.org/2014/12/21/page-fault-queue/	A queue of page faults	
+http://www.insomniacgames.com/converting-a-rotation-matrix-to-a-quaternion/	Converting a Rotation Matrix to a Quaternion	
+http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/	Coding is not the new literacy	
+http://blog.hvidtfeldts.net/index.php/2015/01/path-tracing-3d-fractals/	Path Tracing 3D Fractals	
+http://hacksoflife.blogspot.fr/2015/01/high-performance-code-is-designed-not.html	High Performance Code Is Designed, Not Optimized	
+http://hacksoflife.blogspot.fr/2015/01/the-four-horsemen-of-performance.html	The Four Horsemen of the Performance Apocalypse	
+http://tympanus.net/codrops/2014/12/08/inspiration-dialog-effects/	Inspiration for Dialog Effects	
+http://Zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/	An algorithm to extract looping GIFs from videos	
+http://scottmeyers.blogspot.fr/2014/03/if-braced-initializers-have-no-type-why.html	If braced initializers have no type, why is the committee so insistent on deducing one for them?	
+http://scottmeyers.blogspot.fr/2014/03/a-concern-about-rule-of-zero.html	A Concern about the Rule of Zero	
+http://feeds.feedblitz.com/~/86310137/0/sethsblog~The-circus-is-coming-to-town.html	The circus is coming to town	
+http://codepen.io/andremichelle/blog/code-7	Code 7	
+http://www.strchr.com/optimized_abs_function	Optimized abs function	
+http://googledevelopers.blogspot.fr/2014/05/introducing-new-video-series-compressor.html	Introducing a New Video Series: Compressor Head	
+http://thechangelog.com/plyr-simple-html5-media-player-custom-controls-webvtt-captions/	Plyr: A simple HTML5 media player with custom controls and WebVTT captions	
+http://inessential.com/2015/03/03/xcodes_view_debugger	Xcode’s View Debugger	
+http://www.stevestreeting.com/2014/07/23/i-believe-in-the-cumulative-power-of-small-steps/	I believe in the cumulative power of small steps	
+http://www.alexandre-pestana.com/physical-midi-user-interface-for-lazy-programmers/	“Physical” midi user interface for lazy programmers	
+https://hacks.mozilla.org/2015/02/synchronous-execution-and-filesystem-access-in-emscripten/	Synchronous Execution and Filesystem Access in Emscripten	
+https://hacks.mozilla.org/2014/08/building-interactive-html5-videos/	Building Interactive HTML5 Videos	
+http://psgraphics.blogspot.fr/2015/03/easy-random-point-in-sphere.html	Easy random point in sphere	
+http://tympanus.net/codrops/2015/04/08/motion-blur-effect-svg/	Motion Blur Effect with SVG	
+http://tympanus.net/codrops/2015/03/31/prism-effect-slider-canvas/	Prism Effect Slider with Canvas	
+http://phoboslab.org/log/2015/04/reverse-engineering-wipeout-psx	Reverse Engineering WipEout (PSX)	
+http://www.volumesoffun.com/implementing-morton-ordering-for-chunked-voxel-data/	Implementing Morton ordering for chunked voxel data	
+http://feeds.feedblitz.com/~/89898117/0/sethsblog~People-are-real-but-the-crowd-disappoints.html	People are real, but the crowd disappoints	
+https://deplinenoise.wordpress.com/2015/03/06/slides-simd-at-insomniac-games-gdc-2015/	Slides: SIMD at Insomniac Games (GDC 2015)	
+http://beust.com/weblog/2014/07/13/a-rubiks-cube-implementation-in-three-js/	A Rubik’s cube implementation in Three.js	
+https://mynameismjp.wordpress.com/2015/04/04/mitsuba-quick-start-guide/	Mitsuba Quick-Start Guide	
+http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/	A Baseline for Front-End [JS] Developers: 2015	
+http://dailyjs.com/2014/04/28/gesturekit	GestureKit	
+https://robots.thoughtbot.com/weechat-for-slacks-irc-gateway	WeeChat for Slack's IRC Gateway	
+https://hacks.mozilla.org/2015/06/new-performance-tools-in-firefox-developer-edition-40/	New Performance Tools in Firefox Developer Edition 40	
+http://www.pagetable.com/?p=831	xhyve – Lightweight Virtualization on OS X Based on bhyve	
+http://alistapart.com/blog/post/network-performance-testing	Network Performance Testing	
+http://mattgemmell.com/letting-go/	Letting go	
+https://monoinfinito.wordpress.com/2015/06/23/useful-predefined-variables-in-make/	Useful predefined variables in make	
+http://blog.runevision.com/2015/01/primer-on-repeatable-random-numbers.html	Primer on Repeatable Random Numbers	
+http://encelo.netsons.org/2009/04/26/yet-another-toon-shader/	Yet another toon shader	
+https://css-tricks.com/svg-line-animation-works/	How SVG Line Animation Works	
+http://android-developers.blogspot.fr/2015/08/low-overhead-rendering-with-vulkan.html	Low-overhead rendering with Vulkan	
+http://github.prideout.net/heman/	Heman	
+https://robots.thoughtbot.com/ruby-2-keyword-arguments	Ruby 2 Keyword Arguments	
+http://flexmonkey.blogspot.fr/2015/09/advanced-touch-handling-in-ios9.html	Advanced Touch Handling in iOS9: Coalescing and Prediction	
+http://furbo.org/2015/07/27/now-about-those-huge-javascript-frameworks/	Now, about those huge JavaScript frameworks…	
+http://rmurphey.com/blog/2015/10/08/five-questions/	Five Questions	

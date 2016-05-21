@@ -1,3 +1,8 @@
+# query feeds
+"query:Unread Articles:unread = \"yes\" and tags !# \"pouet\" and tags !# \"page2rss\""
+"query:Unread Articles (1 year old):unread = \"yes\" and tags !# \"pouet\" and tags !# \"page2rss\" and age between 0:365"
+"query:Unread Articles (primary):unread = \"yes\" and tags # \"primary\""
+
 # programming feeds
 http://altdevblogaday.org/feed/ programming
 http://0fps.wordpress.com/feed/ programming
@@ -5,7 +10,7 @@ http://29a.ch/feed.atom programming
 http://3d.benjamin-thaut.de/?feed=rss2 programming
 http://acko.net/blog/feed programming maths
 http://adrianboeing.blogspot.com/feeds/posts/default programming
-https://molecularmusings.wordpress.com/feed/ programming
+https://molecularmusings.wordpress.com/feed/ programming primary
 https://idea.popcount.org/rss.xml programming
 http://zeuxcg.org/feed programming
 http://akrzemi1.wordpress.com/feed/ programming c++
@@ -13,6 +18,7 @@ http://aigamedev.com/feed/ programming
 http://android-developers.blogspot.com/feeds/posts/default programming android
 http://anki3d.org/feed/ programming graphics
 http://blog.blackpawn.com/rss programming graphics
+http://www.blackpawn.com/blog/feed/ programming graphics primary
 http://zserge.com/rss.xml programming
 http://anteru.net/feed/ programming graphics
 http://antirez.com/rss programming redis
@@ -74,7 +80,7 @@ http://blog.nobel-joergensen.com/feed/ programming graphics opengl
 http://blog.selfshadow.com/feed/ programming graphics
 http://www.insomniacgames.com/category/research-development/feed/ programming
 http://blog.stevemcauley.com/feed/ programming graphics
-http://blogs.msdn.com/b/oldnewthing/rss.aspx programming
+http://blogs.msdn.com/b/oldnewthing/rss.aspx programming primary
 http://devmaster.net/posts.rss programming
 http://www.gamedev.net/rss/ccs/1-articles/ ~gamedev.net programming
 http://bartoszmilewski.wordpress.com/feed/ programming
@@ -116,7 +122,7 @@ http://donw.org/b/rss.xml programming graphics
 http://d0cs4vage.blogspot.com/feeds/posts/default programming
 http://codeascraft.etsy.com/feed/ programming
 http://www.pjblewis.com/articles/feed/ programming graphics
-http://delvarworld.github.io/atom.xml programming
+http://blog.andrewray.me programming
 http://www.codersnotes.com/atom/ programming
 http://tommyhinks.com/feed/ programming graphics
 http://eli.thegreenplace.net/feed/ programming
@@ -135,12 +141,12 @@ http://www.reedbeta.com/blog/feed/ programming
 http://cg.alexandra.dk/feed/ programming graphics
 http://fabiensanglard.net/rss.xml programming
 http://labs.domipheus.com/blog/feed/ programming
-http://fgiesen.wordpress.com/feed/ programming
+http://fgiesen.wordpress.com/feed/ programming primary
 http://dougrogers.blogspot.com/feeds/posts/default programming graphics
 http://feeds.feedburner.com/bkcore-thibautdespoulain
 http://www.backtothepixel.com/rss.xml programming graphics webgl
 http://ericlippert.com/feed/ programming
-http://fastcompression.blogspot.com/feeds/posts/default programming compression
+http://fastcompression.blogspot.com/feeds/posts/default programming compression primary
 http://divergentcoder.com/feed.xml programming
 http://coderview.blogspot.com/feeds/posts/default programming
 http://fahrenheit2539.blogspot.com/feeds/posts/default programming
@@ -151,7 +157,7 @@ http://feeds.feedburner.com/opensoul programming
 http://engineering.imvu.com/feed/ programming
 http://www.nickdarnell.com/feed programming
 http://www.airtightinteractive.com/feed/ programming
-http://aras-p.info/atom.xml programming
+http://aras-p.info/atom.xml programming primary
 http://feeds.feedburner.com/codeincomplete programming
 http://gbgames.com/blog/feed/ programming
 http://www.pixelnerve.com/v/feed/ programming
@@ -159,7 +165,6 @@ http://www.stevestreeting.com/feed/ programming
 http://blogs.aerys.in/jeanmarc-leroux/feed/ programming
 http://diaryofagraphicsprogrammer.blogspot.com/feeds/posts/default programming graphics
 http://feeds.feedburner.com/CppSoup programming c++
-http://feeds.feedburner.com/JonSkeetCodingBlog programming
 http://codeblog.jonskeet.uk/feed/ programming
 http://beautifulpixels.blogspot.com/feeds/posts/default programming graphcis
 http://blog.irayrender.com/rss programming graphics
@@ -204,6 +209,7 @@ http://hacksoflife.blogspot.com/feeds/posts/default programming
 http://hbfs.wordpress.com/feed/ programming
 http://herbsutter.wordpress.com/feed/ programming c++
 http://home.comcast.net/~tom_forsyth/blog.wiki.xml programming
+http://eelpi.gotdns.org/blog.wiki.xml programming
 http://humus.name/rss.xml programming graphics
 http://i-am-glow.com/?feed=rss2 programming graphcis webbl
 http://iki.fi/sol/rss.xml programming
@@ -262,12 +268,12 @@ http://philippe.elsass.me/feed/ programming
 http://phoboslab.org/log/feed programming graphics
 http://pkisensee.spaces.live.com/feed.rss programming
 http://preney.ca/paul/feed/ programming
-http://preshing.com/feed programming
+http://preshing.com/feed programming primary
 http://procworld.blogspot.com/feeds/posts/default programming graphis
 http://prog21.dadgum.com/atom.xml programming
 http://psgraphics.blogspot.com/feeds/posts/default programming graphics
 http://sealedabstract.com/feed/rss/ programming
-http://randomascii.wordpress.com/feed/ programming
+http://randomascii.wordpress.com/feed/ programming primary
 http://rastergrid.com/blog/feed/ programming
 http://rauwendaal.net/feed/ programming
 http://raytracey.blogspot.com/feeds/posts/default programming graphics
@@ -290,6 +296,7 @@ http://scottmeyers.blogspot.com/feeds/posts/default programming c++
 http://scriptogr.am/jj/feed programming c++
 http://sea-of-memes.com/rss.xml programming graphics
 http://sebastiansylvan.com/feed/ programming
+http://www.sebastiansylvan.com/index.xml programming
 http://sebh-blog.blogspot.com/feeds/posts/default programming graphics
 http://seblagarde.wordpress.com/feed/ programming graphics
 http://simblob.blogspot.com/feeds/posts/default programming
@@ -299,7 +306,7 @@ http://soledadpenades.com/feed/ programming
 http://solid-angle.blogspot.com/feeds/posts/default programming
 http://sree.kotay.com/atom.xml programming
 http://steve.vinoski.net/blog/feed/atom/ programming
-http://stevehanov.ca/blog/?atom programming
+http://stevehanov.ca/blog/?atom programming primary
 http://swiftcoder.wordpress.com/feed/ programming
 http://sylefeb.blogspot.com/feeds/posts/default programming
 http://takinginitiative.wordpress.com/feed/ programming
@@ -310,7 +317,7 @@ http://thiagocosta.net/?feed=rss2 programming
 http://timothylottes.blogspot.com/feeds/posts/default programming
 http://tinodidriksen.com/feed/ programming
 http://www.codercorner.com/blog/?feed=rss2 programming
-http://www.kvraudio.com/forum/feed.php?f=33 programming
+#http://www.kvraudio.com/forum/feed.php?f=33 programming
 http://www.mahdiyusuf.com/rss programming
 http://tomkirbygreen.com/feed/ programming
 http://torjo.blogspot.com/feeds/posts/default programming webgl
@@ -379,7 +386,6 @@ http://useyourloaf.com/blog/rss.xml programming
 http://bartwronski.com/feed/ programming
 http://tolgaceylan.tumblr.com/rss programming
 http://fapad3d.blogspot.com/feeds/posts/default programming
-http://www.p1xelcoder.com/feed/ programming
 http://www.joshbarczak.com/blog/?feed=rss2 programming
 http://notes.ericjiang.com/feed programming
 http://www.kiransprojects.com/blog/feed/ programming
@@ -390,6 +396,98 @@ http://weblog.kimkulling.de/?feed=rss2 programming
 http://jamesdolan.blogspot.com/feeds/posts/default programming
 http://www.alexandre-pestana.com/feed/ programming
 http://blog.feabhas.com/feed/rss2/ programming
+http://feeds.feedburner.com/codeandgraphics programming
+http://h14s.p5r.org/feed programming
+https://knarkowicz.wordpress.com/feed/ programming
+http://danluu.com/atom.xml programming
+http://nullprogram.com/feed/ programming
+http://www.pagetable.com/?feed=rss2 programming
+http://petersikachev.blogspot.com/feeds/posts/default programming
+http://ndebug.blogspot.com/feeds/posts/default programming
+http://unknownworlds.com/futureperfect/feed/ programming
+http://snaipe.me/feed.xml programming
+https://ferransole.wordpress.com/feed/ programming
+http://zulko.github.io/atom.xml programming
+http://arne-mertz.de/feed/ programming c++
+http://blog.mattbierner.com/rss/ programming c++
+http://shaneenishry.com/feed.xml programming
+http://www.adriancourreges.com/atom.xml programming graphics
+http://www.duskborn.com/feed/ programming
+http://wadeb.com/blog/feed.xml programming
+http://www.alexstjohn.com/WP/feed/ programming
+http://lcamtuf.blogspot.com/feeds/posts/default programming
+http://locklessinc.com/feed.rss programming
+http://www.evanmiller.org/news.xml programming
+http://kennykerr.ca/feed/ programming c++
+http://sub.blue/feed.rss programming graphics
+http://zverovich.net/atom.xml programming
+http://yapb-soc.blogspot.com/feeds/posts/default progamming c++
+http://marek.vavrusa.com/feed.xml programming
+http://seanmiddleditch.com/rss/ programming
+http://birdgames.nl/feed/ programming
+http://b.atch.se/rss.xml programming c++
+http://codeofthedamned.com/index.php?tempskin=_atom programming
+http://codingadventures.me/feed/ programming
+http://karpathy.github.io/feed.xml programming
+http://renderdoc.org/blogrss/Graphics-in-Plain-Language/ programming graphics
+http://richg42.blogspot.com/feeds/posts/default programming primary
+https://dolphin-emu.org/blog/feeds/ programming
+http://andrea.corbellini.name/feed/ programming
+http://andrea.corbellini.name/feed.atom programming
+http://feeds.exploringbinary.com/exploringbinary programming
+http://nfrechette.github.io/atom.xml programming
+http://blog.noctua-software.com/atom.xml programming
+http://leifnode.com/feed/ programming graphics
+http://gilesbowkett.blogspot.com/feeds/posts/default programming
+http://natoshabard.com/rss programming
+http://kmamou.blogspot.com/feeds/posts/default
+http://blog.httrack.com/atom.xml programming
+http://www.remarkablyrestrained.com/feed.xml programming
+http://roar11.com/feed/ programming
+http://nickdesaulniers.github.io/atom.xml programming
+http://dhruvbird.blogspot.com/feeds/posts/default programming
+http://marcinignac.com/rss/ programming graphics
+https://raytracedminecraft.wordpress.com/feed/ programming graphics
+http://blog.cleancoder.com/atom.xml programming
+http://www.farrarfocus.com/feed/ programming
+http://accu.org/index.php/articles?theme=rss programming
+http://www.gahcep.com/rss/ programming
+http://stevengharms.com/atom.xml programming
+http://adriansampson.net/blog.xml programming
+http://turbochaos.blogspot.com/feeds/posts/default programming
+http://manu343726.github.io/feed.xml programming
+http://furbo.org/feed/ programming
+http://wongmichael.com/feed/ programming
+https://www.tinycranes.com/rss.xml programming
+http://blog.ometer.com/feed/ programming
+http://mollyrocket.com/casey/stream_atom.rss programming
+http://eev.ee/feeds/atom.xml programming
+http://feeds.feedburner.com/MessWithYourJunk programming
+https://smcgro.wordpress.com/feed/ programming
+http://brandonpelfrey.github.io/atom.xml programming
+http://www.elbeno.com/blog/?feed=rss2 programming
+https://natecraun.net/feed.xml programming
+http://lowlevelbits.org/atom.xml programming
+https://gamedevdaily.io/feed programming
+http://www.randygaul.net/feed/ programming
+http://upcoder.com/feed programming
+http://cppcast.libsyn.com/rss programming
+http://stephaniehurlburt.com/blog?format=RSS programming
+http://panavtec.me/feed/ programming
+http://gpuopen.com/feed/ programming
+http://xania.org/feed programming
+https://matt.sh/.rss programming
+http://troydm.github.io/atom.xml programming
+http://blog.demofox.org/feed/ programming
+http://charlesleifer.com/blog/rss/ programming
+http://programmingisterrible.com/rss programming
+http://www.mr-edd.co.uk/rss.xml programming
+http://www.bfilipek.com/feeds/posts/default programming
+https://procedural.github.io/feed.xml programming
+https://optimiserly.wordpress.com/feed/ programming
+http://ewontfix.com/feed.rss programming
+https://stoyannk.wordpress.com/feed/ programming
+https://basesandframes.wordpress.com/feed/ programming
 
 # library feeds
 http://box2d.org/feed/
@@ -398,7 +496,7 @@ http://blog.qt.digia.com/feed/
 
 # web feeds
 https://hacks.mozilla.org/feed/ web
-http://www.webcreme.com/feed/ web
+#http://www.webcreme.com/feed/ web
 http://www.stevesouders.com/blog/feed/ web
 http://ricardocabello.com/rss/ web
 http://badassjs.com/rss web
@@ -423,6 +521,7 @@ http://blog.vjeux.com/feed web
 http://feeds.feedburner.com/AshleyFord-Papermashupcom web
 http://gfxprose.blogspot.com/feeds/posts/default web
 http://feeds.feedburner.com/html5rocks web
+https://developers.google.com/web/updates/atom.xml web
 http://www.css3files.com/feed/ web css
 http://taras.glek.net/atom.xml web
 http://feeds.feedburner.com/dailyjs web javascript
@@ -448,6 +547,7 @@ http://feeds.feedburner.com/RubyRedBricks web
 http://jakoblaegdsmand.com/feed.xml web
 http://codepen.io/chriscoyier/blog/feed/ web
 http://feeds2.feedburner.com/tympanus web
+http://hugogiraudel.com/rss/ web
 
 # sysadmin feeds
 http://blog.linuxmint.com/?feed=rss2 linux
@@ -463,7 +563,7 @@ http://feeds2.feedburner.com/Command-line-fu cli
 http://kbeezie.com/feed/ nginx
 http://pcloadletter.co.uk/feed/ synology
 http://feeds.feedburner.com/vagrantup vagrant
-https://www.madboa.com/blog/atom.xml
+https://www.madboa.com/blog/index.xml
 
 # maths feeds
 http://and-what-happened.blogspot.com/feeds/posts/default maths
@@ -502,8 +602,7 @@ http://feeds2.feedburner.com/BonjourMadame misc
 http://drgoulu.com/feed/ misc
 http://dougmccune.com/blog/feed/ misc
 http://createdigitalmotion.com/feed/ misc
-http://feeds.feedburner.com/abduzeedo misc
-http://feeds.feedburner.com/GamasutraFeatureArticles misc
+#http://feeds.feedburner.com/abduzeedo misc
 http://feeds.feedburner.com/Ontwik misc
 http://feeds.feedburner.com/ScottHanselman misc
 http://feeds.feedburner.com/amixdk misc
@@ -518,19 +617,26 @@ http://vimbits.com/bits.rss?sort=new misc vim
 http://vimbits.com/bits.rss?sort=top misc vim
 http://www.geeks3d.com/?feed=rss2 misc
 http://www.zdziarski.com/blog/?feed=rss2 misc
-http://feeds.feedburner.com/williamdurand misc
+http://williamdurand.fr/atom.xml misc
 http://kri.gs/atom.xml misc
 http://icogif.tumblr.com/rss misc
 http://vihart.com/feed misc
 http://markus.com/rss/ misc
 http://euri.ca/feed/index.xml misc
-http://feeds.feedburner.com/matthen misc
 http://spritesmods.com/rss.php misc
-http://nautil.us/rss/all misc
 http://mollyrocket.com/jacs/jacs_s04_atom.rss misc
+http://nickbradbury.com/feed/ misc
+http://vim.watch/feed.xml vim misc
+http://boz.com/boz.rss misc
+http://paperswelove.org/feed.xml misc
+http://harmful.cat-v.org/Blog/index.atom misc
+http://gloryowlcomix.blogspot.com/feeds/posts/default misc
+http://www.eecis.udel.edu/~mckennar/blog/rss.xml misc
+http://fail0verflow.com/blog/excerptsfeed.xml misc
+http://blog.dustinkirkland.com/feeds/posts/default misc
 
 # demoscene feeds
-http://www.pouet.net/export/lastprodsreleased.rss.php demoscene
+http://www.pouet.net/export/lastprodsreleased.rss.php demoscene pouet
 http://bbs.demoscene.fr/.xml/?type=rss demoscene
 http://www.iquilezles.org/blog/?feed=rss2 demoscene programming graphics
 http://www.jco.de/feed/ demoscene
@@ -554,13 +660,15 @@ http://sizecoding.blogspot.com/feeds/posts/default demoscene programming
 http://trixter.oldskool.org/feed/ demoscene
 http://www.ctrl-alt-test.fr/?feed=rss2 demoscene programming
 http://www.iguanademos.com/Jare/wp/?feed=rss2 demoscene programming
-http://yupferris.blogspot.com/feeds/posts/default programming
-http://zerkman.sector1.fr/index.php?feed/atom programming
-http://fail0verflow.com/blog/excerptsfeed.xml programming
-http://turbochaos.blogspot.com/feeds/posts/default programming
+http://yupferris.blogspot.com/feeds/posts/default demoscene programming
+http://zerkman.sector1.fr/index.php?feed/atom demoscene programming
+http://www.simppa.fi/blog/feed/ demoscene programming
+
+# rendering feeds
+http://www.eugenedeon.com/feed/atom/ rendering
 
 # application feeds
-http://www.mendeley.com/blog/feed/
+#http://www.mendeley.com/blog/feed/
 http://www.sublimetext.com/blog/feed
 http://appleseedhq.net/rss.xml
 http://feedproxy.google.com/ContinuousBlog jenkins
@@ -573,8 +681,9 @@ http://www.indigorenderer.com/blog/feed
 http://www.mitsuba-renderer.org/devblog/?feed=rss2
 
 # news feeds
-http://www.clubic.com/xml/news.xml ~clubic.com news
-http://feeds.macbidouille.com/macbidouille/ news
+#http://www.clubic.com/xml/news.xml ~clubic.com news
+#http://feeds.macbidouille.com/macbidouille/ news
+#http://nautil.us/rss/all news
 
 # typography feeds
 http://feeds.feedburner.com/webtype typography
@@ -661,6 +770,7 @@ http://glennmarshall.wordpress.com/feed/
 http://illformed.org/feed/
 http://imdoingitwrong.wordpress.com/feed/
 http://julipedia.blogspot.com/feeds/posts/default
+http://julio.meroh.net/feed.xml
 http://kwigbo.com/rss
 http://lambda-the-ultimate.org/rss.xml
 http://lia-sae.net/en/feed/
@@ -702,54 +812,61 @@ http://www.ozone3d.net/rss/index.php
 http://www.ozone3d.net/blogs/lab/?feed=rss2
 http://www.photonstorm.com/feed
 http://www.revergestudios.com/reblog/index.php?n=ReCode.RecentChanges?action=rss?list=normal
+http://www.dieantwoord.fr/feed/
+
+# deep learning
+https://medium.com/feed/@samim deep-learning
+http://gitxiv.com/feed.xml
+http://torch.ch/blog/feed.xml
 
 # page2rss feeds
-http://page2rss.com/rss/00a8ee7166f4fb18c9ff9621fe9a1007
-http://page2rss.com/rss/07ee0804bcd37a98c8fd25f5556e0b4e
-http://page2rss.com/rss/0a96c5eeefa20df9972bb928a0abfc49
-http://page2rss.com/rss/0b48cd48a3cb60fd4bb294bdba9340f6
-http://page2rss.com/rss/0be7538118438797182b96ebc39dd051
-http://page2rss.com/rss/128429cfa301dd80add4e76729a99153
-http://page2rss.com/rss/13323339391f497da71d47cd56455790
-http://page2rss.com/rss/22dc285de852ef24f4101fd8b8a3884b
-http://page2rss.com/rss/2488240f297e08354ff7cd4df8ee13ec
-http://page2rss.com/rss/36cb336a5a454fd5deae949ad2fbcf83
-http://page2rss.com/rss/3f44ec0de1c9b7af2f493caee1fbe5af
-http://page2rss.com/rss/3fc3096d55b3182bb34f585751eeb3e1
-http://page2rss.com/rss/433e5c4f1a0caa08b15ba51704c2b69c
-http://page2rss.com/rss/44c25a1f4f418709e66cd6dee4f132cb
-http://page2rss.com/rss/4848ac15fad430b2a4170ac95dc57905
-http://page2rss.com/rss/4bf48ac86b83038fc691d592e9154b2a
-http://page2rss.com/rss/599ef1bfebfdc65dc3e685e135cf8c4a
-http://page2rss.com/rss/6597655c8860e429752e66351010952d
-http://page2rss.com/rss/692b21edaebe0f694eb5cdd97ff5a0c8
-http://page2rss.com/rss/8c077d79acca9e113a18d71f452b09b5
-http://page2rss.com/rss/905b88fb5723324369369da5b66a87f8
-http://page2rss.com/rss/9493c9ee99bc4ac795012b8902aa8162
-http://page2rss.com/rss/95345b72b91f327aee70f29b63d636b9
-http://page2rss.com/rss/95524f1c077c31561efa77dd2d577119
-http://page2rss.com/rss/9ea7013502dad330dc37fe6dd826733f
-http://page2rss.com/rss/a19f879c82430754b02d64fcf85c4139
-http://page2rss.com/rss/a25f944643a99fcabf60085a89e3d5d9
-http://page2rss.com/rss/a3d71a9c9af5df7dba7092197f2031d0
-http://page2rss.com/rss/a906bed19da29c728a26d412bb1904ac
-http://page2rss.com/rss/b8e3be1f6fd9a02524e75d46a78785fe
-http://page2rss.com/rss/ba6247949f834ece214a5aa9f0914c11
-http://page2rss.com/rss/bb58326e8d3f472669a3db2c3038557a
-http://page2rss.com/rss/bc269cf4150bdba7dd3680308115b7b9
-http://page2rss.com/rss/c2e8fec5c6a46c066c654c5729e3aa55
-http://page2rss.com/rss/c6e531fe451820a7fa80770ab8ae6554
-http://page2rss.com/rss/c73db8fa2a1c48c778b11c048295bcd5
-http://page2rss.com/rss/c813e98b53eb276635ee0c972f08b3e0
-http://page2rss.com/rss/c9143259c2907af7fa2758592860bd17
-http://page2rss.com/rss/d485115c4d4b3ea84e75b8b313430484
-http://page2rss.com/rss/d707cadcb9b8e1b257536b2d02666f4a
-http://page2rss.com/rss/dc2693ea02c3bb929a7f68ec0beefee8
-http://page2rss.com/rss/e218d37181ee9938eb65843a3fdd7e60
-http://page2rss.com/rss/f5bb4c1ffc40c1d40d27000a43b69e2f
-http://page2rss.com/rss/f5e0a0f45adb0153d2c18ebebbd1ef27
-http://page2rss.com/rss/f61f50eb735299c478ae67ff1eab41b5
-http://page2rss.com/rss/f7c0ad9f320afcc572e0cfefa029ff3a
+http://page2rss.com/rss/00a8ee7166f4fb18c9ff9621fe9a1007 page2rss
+http://page2rss.com/rss/07ee0804bcd37a98c8fd25f5556e0b4e page2rss
+http://page2rss.com/rss/0a96c5eeefa20df9972bb928a0abfc49 page2rss
+http://page2rss.com/rss/0b48cd48a3cb60fd4bb294bdba9340f6 page2rss
+http://page2rss.com/rss/0be7538118438797182b96ebc39dd051 page2rss
+http://page2rss.com/rss/128429cfa301dd80add4e76729a99153 page2rss
+http://page2rss.com/rss/13323339391f497da71d47cd56455790 page2rss
+http://page2rss.com/rss/22dc285de852ef24f4101fd8b8a3884b page2rss
+http://page2rss.com/rss/2488240f297e08354ff7cd4df8ee13ec page2rss
+http://page2rss.com/rss/36cb336a5a454fd5deae949ad2fbcf83 page2rss
+http://page2rss.com/rss/3f44ec0de1c9b7af2f493caee1fbe5af page2rss
+http://page2rss.com/rss/3fc3096d55b3182bb34f585751eeb3e1 page2rss
+http://page2rss.com/rss/433e5c4f1a0caa08b15ba51704c2b69c page2rss
+http://page2rss.com/rss/44c25a1f4f418709e66cd6dee4f132cb page2rss
+http://page2rss.com/rss/4848ac15fad430b2a4170ac95dc57905 page2rss
+http://page2rss.com/rss/4bf48ac86b83038fc691d592e9154b2a page2rss
+http://page2rss.com/rss/599ef1bfebfdc65dc3e685e135cf8c4a page2rss
+http://page2rss.com/rss/6597655c8860e429752e66351010952d page2rss
+http://page2rss.com/rss/692b21edaebe0f694eb5cdd97ff5a0c8 page2rss
+http://page2rss.com/rss/8c077d79acca9e113a18d71f452b09b5 page2rss
+http://page2rss.com/rss/905b88fb5723324369369da5b66a87f8 page2rss
+http://page2rss.com/rss/9493c9ee99bc4ac795012b8902aa8162 page2rss
+http://page2rss.com/rss/95345b72b91f327aee70f29b63d636b9 page2rss
+http://page2rss.com/rss/95524f1c077c31561efa77dd2d577119 page2rss
+http://page2rss.com/rss/9ea7013502dad330dc37fe6dd826733f page2rss
+http://page2rss.com/rss/a19f879c82430754b02d64fcf85c4139 page2rss
+http://page2rss.com/rss/a25f944643a99fcabf60085a89e3d5d9 page2rss
+http://page2rss.com/rss/a3d71a9c9af5df7dba7092197f2031d0 page2rss
+http://page2rss.com/rss/a906bed19da29c728a26d412bb1904ac page2rss
+http://page2rss.com/rss/b8e3be1f6fd9a02524e75d46a78785fe page2rss
+http://page2rss.com/rss/ba6247949f834ece214a5aa9f0914c11 page2rss
+http://page2rss.com/rss/bb58326e8d3f472669a3db2c3038557a page2rss
+http://page2rss.com/rss/bc269cf4150bdba7dd3680308115b7b9 page2rss
+http://page2rss.com/rss/c2e8fec5c6a46c066c654c5729e3aa55 page2rss
+http://page2rss.com/rss/c6e531fe451820a7fa80770ab8ae6554 page2rss
+http://page2rss.com/rss/c73db8fa2a1c48c778b11c048295bcd5 page2rss
+http://page2rss.com/rss/c813e98b53eb276635ee0c972f08b3e0 page2rss
+http://page2rss.com/rss/c9143259c2907af7fa2758592860bd17 page2rss
+http://page2rss.com/rss/d485115c4d4b3ea84e75b8b313430484 page2rss
+http://page2rss.com/rss/d707cadcb9b8e1b257536b2d02666f4a page2rss
+http://page2rss.com/rss/dc2693ea02c3bb929a7f68ec0beefee8 page2rss
+http://page2rss.com/rss/e218d37181ee9938eb65843a3fdd7e60 page2rss
+http://page2rss.com/rss/f5bb4c1ffc40c1d40d27000a43b69e2f page2rss
+http://page2rss.com/rss/f5e0a0f45adb0153d2c18ebebbd1ef27 page2rss
+http://page2rss.com/rss/f61f50eb735299c478ae67ff1eab41b5 page2rss
+http://page2rss.com/rss/f7c0ad9f320afcc572e0cfefa029ff3a page2rss
+http://page2rss.com/rss/b7083bdd8adeba0010c89c779270213c page2rss
 
 # dead feeds
 http://3dideas.wordpress.com/feed/
